@@ -67,3 +67,24 @@ or
 | -accept (check mark) |     ✅    |
 | -star (star) |     ⭐    |
 | -thumb (thumb) |     🖙    |
+
+
+## Potentional use cases 
+Possible uses:
+- Downloading information from a cryptocurrency wallet making a conversion and sending a message with information on how much our wallet is worth today and what changes have occurred from the previous day
+- Downloading the latest news from a news service (Hacker News, Indie Hackers, New York Post and others)
+- Informing about job offers from the api and sending as a message
+- Informing about changes in the share price of a given company 
+- Sending a meme on a daily basis
+- Daily sending of the tweet of the day
+- Daily sending motivational text
+- Daily generation of a report on the basis of data available in a specific source 
+- Reminders of habits that need to be implemented
+- Reminders of tasks for today
+- Informing about the purchase of a service or product in an online store
+- Monthly, weekly, daily, hourly sales report
+- Information that tests do not pass 
+- Information that the microservice is not working
+- Information about transfer usage on the server
+- Information about the number of generated requests
+- Information about the number of visitors to the site per hour / day / week, etc.  
