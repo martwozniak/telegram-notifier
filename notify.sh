@@ -1,6 +1,6 @@
 # Call notifier script
 # TODO: Add messege as an argument to this script like python3 main.py "Site is down", python3 main.py "Disk space is running low"
-
+# TODO: Add emoji as second argument - one letter scenario
  #!/bin/bash
  if [ "$#" -eq  "0" ]
    then 

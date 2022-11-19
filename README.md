@@ -48,3 +48,21 @@ or
 | Prepare triggers for different scenarios |         |
 | Add delay to notifications (as argument) |         |
 | Other channels communication (eg. mail, slack and more) |         |
+
+
+
+## Emojis
+
+
+| Second argument                                     | Emoji |
+|------------------------------------------|---------|
+| -error (error)     |    🔥     |
+| -warning (warning) |     ⚠️    |
+| -money (money) |     💵    |
+| -sparkles (sparkles) |     ✨    |
+| -users (users) |     👥    |
+| -melting (melting face) |    🫠    |
+| -thumb (thumb up) |     👍    |
+| -accept (check mark) |     ✅    |
+| -star (star) |     ⭐    |
+| -thumb (thumb) |     🖙    |
