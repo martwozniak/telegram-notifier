@@ -48,7 +48,8 @@ or
 | Prepare triggers for different scenarios |         |
 | Add delay to notifications (as argument) |         |
 | Other channels communication (eg. mail, slack and more) |         |
-
+| Chart generation, S3 img hosting and telegram message |         |
+| PDF Raport generation (cron weekly, monthly, comparison w2w, m2m) |         |
 
 
 ## Emojis
