@@ -1,5 +1,10 @@
 import requests
 import json
+
+import sys
+
+import datetime
+
 import os
 from dotenv import load_dotenv
 load_dotenv()
@@ -44,5 +49,11 @@ api_key = os.getenv('api_key')
 
 
 # Call method if error occurs, then notification is pushed to telegram
-send_telegram_message("Site is down! You have to check it now.", chat_id, api_key)
-
+n = len(sys.argv)
+now = str(datetime.datetime.now())
+if n<2:
+    temp_message = "🔥 Site is down! You have to check it now. ⏰" + " " + now;
+    send_telegram_message(temp_message, chat_id, api_key)
+else:
+    temp_message = sys.argv[1] + " ⏰ " + now;
+    send_telegram_message(temp_message, chat_id, api_key)
