@@ -13,8 +13,6 @@ The script works on many different actions that can happen, for example:
 
 There are many cases in which you can trigger the sending of a notification through Telegram. The best part is that you can also associate other operations for a specific situation. 
 
-Translated with www.DeepL.com/Translator (free version)
-
 ## Prerequirements
 
 You have to install:
@@ -49,3 +47,4 @@ or
 | Pass argument to function and script     |    ✅    |
 | Prepare triggers for different scenarios |         |
 | Add delay to notifications (as argument) |         |
+| Other channels communication (eg. mail, slack and more) |         |
