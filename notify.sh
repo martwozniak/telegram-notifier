@@ -20,3 +20,4 @@
 
 # Calling:
 # ./notify.sh
+# ./notify.sh "Message"
