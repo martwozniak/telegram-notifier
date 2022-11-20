@@ -31,14 +31,21 @@ Using this script is simple. However, it requires early configuration of the app
 or   
 > `./notify.sh`  
 
-  
+or   
+
+> `node notify.js`    
+
 
 **Specific error message:**
 
 > `python3 main.py "This is my custom error message"`  
 
 or   
-> `./notify.sh "This is my custom error message"`  
+> `./notify.sh "This is my custom error message"`    
+
+or  
+
+> `node notify.js "Your message"`  
 
 ## Features
 
