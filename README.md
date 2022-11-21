@@ -24,6 +24,9 @@ You have to install:
 ## Usage
 Using this script is simple. However, it requires early configuration of the appropriate bot on Telegram and obtaining the environment variables used in the .env file. You can use the .env.example file to see what these variables should look like.
 
+**Installing requirements:**
+> `pip3 install -r requirements.txt`
+
 **Default error message:**
 
 > `python3 main.py`  
